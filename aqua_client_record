@@ -1,0 +1,4 @@
+aqua_client/
+    - aqua_client.py
+    - README.md
+    - requirements.txt
